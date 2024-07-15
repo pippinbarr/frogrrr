@@ -1,3 +1,3 @@
-# FROGRRR
+# FrogsFrogsFrogs
 
 Getting started.
