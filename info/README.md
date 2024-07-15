@@ -1,4 +1,4 @@
-# FrogsFrogsFrogs (working title that I dislike more and more)
+# FrogsFrogsFrogs
 
 ## [Play online](../index.html)
 
